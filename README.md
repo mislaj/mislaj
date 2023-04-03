@@ -1,3 +1,5 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
 # Hi 👋 I am Mislaj
 
 ## Software Engineer
@@ -41,11 +43,18 @@ ReactJs | NodeJs | Typescript | javascript | HTML | CSS
 - Octanics - Octanics Software is all-in-one software platform for small to large businesses. We empower entrepreneurs/owners around the world to start and              grow their businesses with our smart software and inspiring technology.
 - [MNBC](https://www.mnbc.ca/) - Website for the organization which focused to develop and enhance opportunities for Métis communities by implementing culturally relevant social and economic programs and services.
 
-<b>My GitHub Stats</b>
-
-<a href="https://www.github.com/mislaj"><img src="https://github-readme-stats.vercel.app/api?username=mislaj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mislaj's GitHub stats" /></a>
-
-<a href="http://www.github.com/mislaj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mislaj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+    <details>
+        <summary><strong>Github Stats</strong></summary>
+        <a href=“https://github.com/mislaj”>
+            <img src=“https://github-readme-stats.vercel.app/api?username=mislaj&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true” alt=“Mislaj’s Github Stats”>
+        </a>
+        &nbsp;&nbsp;
+        <a href=“https://github.com/mislaj”>
+            <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=mislaj&layout=compact&langs_count=6&theme=blue-green” alt=“Mislaj’s Top Languages”>
+        </a>
+    </details>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mislaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
