@@ -45,16 +45,10 @@ ReactJs | NodeJs | Typescript | javascript | HTML | CSS
 
 <p>
     <details>
-        <summary><strong>Github Stats</strong></summary>
-        <a href=“https://github.com/mislaj”>
-            <img src=“https://github-readme-stats.vercel.app/api?username=mislaj&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true” alt=“Mislaj’s Github Stats”>
-        </a>
-        &nbsp;&nbsp;
-        <a href=“https://github.com/mislaj”>
-            <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=mislaj&layout=compact&langs_count=6&theme=blue-green” alt=“Mislaj’s Top Languages”>
-        </a>
+     <summary><strong>Github Stats</strong></summary>
+     
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mislaj&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/mislaj?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mislaj&layout=compact&langs_count=6&theme=blue-green)](https://github.com/mislaj)
     </details>
 </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mislaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
